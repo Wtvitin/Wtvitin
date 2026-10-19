@@ -40,7 +40,7 @@
 | --- | --- |
 | Organização da rotina acadêmica com disciplinas, tarefas, sessões de estudo e relatórios. | Exercícios acadêmicos de Python com estruturas condicionais, funções e módulos. |
 | **TypeScript · Em desenvolvimento** | **Python · Estudos** |
-| [Acessar projeto ↗](https://github.com/Wtvitin/Edutrack---version-2.0) | [Acessar projeto ↗](https://github.com/Wtvitin/atividades-logica-programacao) |
+| [Acessar projeto ↗](https://github.com/Wtvitin/edutrack-ai) | [Acessar projeto ↗](https://github.com/Wtvitin/atividades-logica-programacao) |
 
 ---
 
