@@ -42,6 +42,11 @@
 | **TypeScript · Em desenvolvimento** | **Python · Estudos** |
 | [Acessar projeto ↗](https://github.com/Wtvitin/edutrack-ai) | [Acessar projeto ↗](https://github.com/Wtvitin/atividades-logica-programacao) |
 
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/victor-samuel-09233a268/)
+[![E-mail](https://img.shields.io/badge/E--mail-444444?style=flat-square&logo=gmail&logoColor=white)](mailto:victor.samuel1609@gmail.com)
+
 ---
 
 <div align="center">
