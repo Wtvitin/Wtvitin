@@ -71,7 +71,7 @@ Encaro meus projetos como oportunidades de experimentar, resolver problemas, apr
 **Gestão de ocorrências • Rastreabilidade • Plataforma web**
 
 <a href="https://github.com/Wtvitin/sac-analises">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wtvitin&repo=sac-analises&theme=github_dark&hide_border=true" alt="Repositório SAC Análises" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/07CD49F7-7E00-4D12-BA90-592682565781.png" alt="Banner do projeto SAC Análises — gestão de ocorrências, rastreabilidade, análise e resultados" width="100%" />
 </a>
 
 </div>
