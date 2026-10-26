@@ -71,7 +71,7 @@ Encaro meus projetos como oportunidades de experimentar, resolver problemas, apr
 **Gestão de ocorrências • Rastreabilidade • Plataforma web**
 
 <a href="https://github.com/Wtvitin/sac-analises">
-  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/sac-cover.svg" alt="Banner do projeto SAC Análises — gestão de ocorrências, rastreabilidade, análise e resultados" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/sac-banner.png" alt="Banner do projeto SAC Análises — gestão de ocorrências, rastreabilidade, análise e resultados" width="100%" />
 </a>
 
 </div>
@@ -104,7 +104,7 @@ Quando informações de um atendimento ficam espalhadas entre registros, mensage
 **Planejamento acadêmico • Produtividade • Assistente de IA**
 
 <a href="https://github.com/Wtvitin/edutrack-ai">
-  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/edutrack-cover.svg" alt="Capa do EduTrack AI" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/edutrack-banner.png" alt="Capa do EduTrack AI" width="100%" />
 </a>
 
 </div>
@@ -137,7 +137,7 @@ O **EduTrack AI** reúne em um só ambiente as informações necessárias para a
 **Python • Fundamentos • Evolução acadêmica**
 
 <a href="https://github.com/Wtvitin/atividades-logica-programacao">
-  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/python-cover.svg" alt="Banner do repositório de Lógica de Programação" width="100%" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/Wtvitin/main/assets/logica-programacao-banner.png" alt="Banner do repositório de Lógica de Programação" width="100%" />
 </a>
 
 </div>
