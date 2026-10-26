@@ -104,7 +104,7 @@ Quando informações de um atendimento ficam espalhadas entre registros, mensage
 **Planejamento acadêmico • Produtividade • Assistente de IA**
 
 <a href="https://github.com/Wtvitin/edutrack-ai">
-  <img src="https://raw.githubusercontent.com/Wtvitin/edutrack-ai/main/docs/assets/edutrack-cover.svg" alt="Capa do EduTrack AI" width="90%" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/edutrack-ai/main/docs/assets/edutrack-cover.svg" alt="Capa do EduTrack AI" width="100%" />
 </a>
 
 </div>
@@ -137,7 +137,7 @@ O **EduTrack AI** reúne em um só ambiente as informações necessárias para a
 **Python • Fundamentos • Evolução acadêmica**
 
 <a href="https://github.com/Wtvitin/atividades-logica-programacao">
-  <img src="https://raw.githubusercontent.com/Wtvitin/atividades-logica-programacao/master/assets/banner.png" alt="Banner do repositório de Lógica de Programação" width="90%" />
+  <img src="https://raw.githubusercontent.com/Wtvitin/atividades-logica-programacao/master/assets/banner.png" alt="Banner do repositório de Lógica de Programação" width="100%" />
 </a>
 
 </div>
